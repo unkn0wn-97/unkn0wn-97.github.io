@@ -1,10 +1,10 @@
 {
-  "data": [
-    {
-      "Name": "ConvertKor",
-      "Lastversion": "2.5.2",
-      "Download_URL": "https://raw.githubusercontent.com/unkn0wn-97/ConvertKor/master/ConvertKor.cs"
-    }
-  ]
-  
+   "data":[
+      {
+         "Name": "ConvertKor",
+         "Version": "2.5.2",
+         "Description": "isConvertKor API 부분 수정",
+         "Download_URL":"https://raw.githubusercontent.com/unkn0wn-97/ConvertKor/master/ConvertKor.cs"
+      }
+   ]
 }
