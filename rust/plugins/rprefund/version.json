@@ -2,6 +2,12 @@
    "data":[
       {
          "Name": "RPRefund",
+         "Version": "1.0.1",
+         "Description": "권한 없는데 구매 해도 이미 보유한 권한 이라고 뜨는거 수정함.",
+         "Download_URL":"Access denied"
+      },
+      {
+         "Name": "RPRefund",
          "Version": "1.0.0",
          "Description": "의뢰 제작",
          "Download_URL":"Access denied"
