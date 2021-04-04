@@ -2,6 +2,12 @@
    "data":[
       {
          "Name": "RPRefund",
+         "Version": "1.0.15",
+         "Description": "테스트 콘솔 메세지 내용 삭제.",
+         "Download_URL":"Access denied"
+      },
+      {
+         "Name": "RPRefund",
          "Version": "1.0.1",
          "Description": "권한 없는데 구매 해도 이미 보유한 권한 이라고 뜨는거 수정함.",
          "Download_URL":"Access denied"
