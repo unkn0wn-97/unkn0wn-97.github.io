@@ -1,10 +1,10 @@
 {
-  "data": {
-    [
+  "data": [
+    {
       "Name": "ConvertKor",
       "Lastversion": "2.5.2",
       "Download_URL": "https://raw.githubusercontent.com/unkn0wn-97/ConvertKor/master/ConvertKor.cs"
-    ]
-  }
+    }
+  ]
   
 }
