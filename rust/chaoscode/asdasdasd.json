@@ -2,12 +2,12 @@
   "Data": [
     {
         "Name": "Casino",
-        "Version": "0.1.7"
+        "Version": "0.1.7",
         "URL": "https://www.chaoscode.io/resources/blackjack.145/"
     },
     {
         "Name": "PlayingCards",
-        "Version": "0.1.2"
+        "Version": "0.1.2",
         "URL": "https://www.chaoscode.io/resources/blackjack.145/"
     }
   ]
