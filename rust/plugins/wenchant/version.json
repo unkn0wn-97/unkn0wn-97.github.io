@@ -23,6 +23,12 @@
          "Version": "1.0.3",
          "Description": "까먹..ㅎ",
          "Download_URL": "Access denied"
+      },
+      {
+         "Name": "WEnchant",
+         "Version": "1.0.4",
+         "Description": "강화 중단 하면 아이템 환불 안해주는 문제 해결됨.",
+         "Download_URL": "Access denied"
       }
    ]
 }
