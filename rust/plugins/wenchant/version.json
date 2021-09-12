@@ -27,6 +27,12 @@
       {
          "Name": "WEnchant",
          "Version": "1.0.4",
+         "Description": "채광 할때 int 형식으로 적용되서 제대론된 배율 안되는 부분 해결 & 자원 지급 명령어 추가 (관리자 전용)",
+         "Download_URL": "Access denied"
+      },
+      {
+         "Name": "WEnchant",
+         "Version": "1.0.5",
          "Description": "강화 중단 하면 아이템 환불 안해주는 문제 해결됨.",
          "Download_URL": "Access denied"
       }
